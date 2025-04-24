@@ -1,0 +1,31 @@
+/* public/css/app.css */
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.card-text {
+    flex-grow: 1;
+}
+
+.btn {
+    align-self: flex-start; /* Aligner le bouton à gauche */
+    width: auto; /* Assurer que le bouton prend seulement la largeur nécessaire */
+}
+html, body {
+    height: 100%;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
