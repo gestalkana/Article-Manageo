@@ -1,11 +1,11 @@
-# 📝 Article Manageo
+# Article Manageo
 
 **Le cerveau numérique de vos auteurs.**  
 *Organisez. Éditez. Publiez.*
 
 ---
 
-## 🚀 Présentation
+## Présentation
 
 **Article Manageo** est une application web de gestion d’articles et d’auteurs. Elle permet de :
 - Créer, modifier et publier des articles facilement
@@ -15,11 +15,11 @@
 
 ---
 
-## 🔧 Technologies utilisées
+## Technologies utilisées
 
-- 🧬 **Laravel ** – Framework back-end robuste
-- 🎨 **Blade & Bootstrap** – Pour une interface claire et responsive
-- 🐘 **PostgreSQL** – Base de données relationnelle
-- 🌐 **JavaScript ** – Interactions dynamiques
+- **Laravel ** – Framework back-end robuste
+- **Blade & Bootstrap** – Pour une interface claire et responsive
+- **PostgreSQL** – Base de données relationnelle
+- **JavaScript ** – Interactions dynamiques
 
 ---
